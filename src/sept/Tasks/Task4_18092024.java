@@ -1,6 +1,6 @@
 package sept.Tasks;
 
-public class Task4_8092024 {
+public class Task4_18092024 {
 
     public static void main(String[] args) {
 

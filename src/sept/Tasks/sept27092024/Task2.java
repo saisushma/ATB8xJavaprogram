@@ -17,5 +17,7 @@ public class Task2 {
            }
            num++;
         }while(count<5);
+
+
     }
 }

@@ -1,28 +1,26 @@
 package Oct.ex_04102024_COnstructors_PC;
 
-public class Lab96_AIHuman {
+public class Practice_Ahuman {
 
     //creating attributes/instance variables
     String eye_Color;
     String planet = "AIHUMAN";
-    String name;
+    String name ="sai";
     long aadhar_num ;
 
-    //default constructor
-    Lab96_AIHuman()
-    {
-        System.out.println("it will be called, object");
-        //write a code here which will be automatiocally called when object is created
-        //Read a file text
-        //Read a CSV, excel here
+    Practice_Ahuman(){
+
+        System.out.println("Im created when object is created");
+        //code here will be automatically called when object is created
     }
 
-    //paramaterized constructor
+    //paramterized constructor
 
-    Lab96_AIHuman(String name){
-        System.out.println("Hi, Im a paramterized constructor");
-         this.name = name;
+    Practice_Ahuman(String name){
+        this.name= name;
+        System.out.println("Hi Im parameter constructor");
     }
+
 
     //behviour/methods
 

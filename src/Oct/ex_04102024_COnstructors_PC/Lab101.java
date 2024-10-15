@@ -5,6 +5,8 @@ public class Lab101 {
 
         Person pc = new Person();
 
+        pc.name="sai";
+        pc.rollno=34;
         
     }
 }

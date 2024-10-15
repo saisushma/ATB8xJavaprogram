@@ -11,5 +11,8 @@ public class Person {
     void walk(){
 
     }
+    void read(){
+
+    }
 
 }

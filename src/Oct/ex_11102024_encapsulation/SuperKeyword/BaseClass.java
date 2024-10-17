@@ -1,4 +1,4 @@
-package Oct.ex_11102024.SuperKeyword;
+package Oct.ex_11102024_encapsulation.SuperKeyword;
 
 public class BaseClass {
 

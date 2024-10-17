@@ -1,4 +1,4 @@
-package Oct.ex_11102024.AccessModifier.Police;
+package Oct.ex_11102024_encapsulation.AccessModifier.Police;
 
 public class JrCop {
     public static void main(String[] args) {

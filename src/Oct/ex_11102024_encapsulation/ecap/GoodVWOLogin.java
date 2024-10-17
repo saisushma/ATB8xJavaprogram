@@ -1,4 +1,4 @@
-package Oct.ex_11102024.ecap;
+package Oct.ex_11102024_encapsulation.ecap;
 
 public class GoodVWOLogin {
     private String username;

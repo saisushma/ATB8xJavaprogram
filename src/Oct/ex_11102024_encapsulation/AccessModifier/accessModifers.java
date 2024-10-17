@@ -1,4 +1,4 @@
-package Oct.ex_11102024.AccessModifier;
+package Oct.ex_11102024_encapsulation.AccessModifier;
 
 public class accessModifers {
     //accessModifier

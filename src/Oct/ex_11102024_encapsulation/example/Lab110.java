@@ -1,4 +1,4 @@
-package Oct.ex_11102024.example;
+package Oct.ex_11102024_encapsulation.example;
 
 public class Lab110 {
     public static void main(String[] args) {

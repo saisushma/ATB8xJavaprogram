@@ -4,6 +4,6 @@ public class Son extends Father {
 
     @Override
     void loan50k() {
-        System.out.println("i will give u 50k");
+        System.out.println("i will give u loan of 50k");
     }
 }

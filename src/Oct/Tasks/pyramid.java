@@ -1,4 +1,4 @@
-package demopack;
+package Oct.Tasks;
 
 public class pyramid {
     public static void main(String[] args) {

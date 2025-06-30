@@ -1,4 +1,4 @@
-package demopack;
+package Oct.Tasks;
 
 public abstract class Airlines {
 

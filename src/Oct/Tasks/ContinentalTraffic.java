@@ -1,4 +1,4 @@
-package demopack;
+package Oct.Tasks;
 
 public interface ContinentalTraffic {
     public void TrainSymbol();

@@ -1,4 +1,4 @@
-package demopack;
+package Oct.Tasks;
 
 public class Assignment1 {
     public static void main(String[] args) {

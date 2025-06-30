@@ -1,4 +1,4 @@
-package demopack;
+package Oct.Tasks;
 
 public class AustralianTraffic implements  CentralTrafficInterface, ContinentalTraffic{
     public static void main(String[] args) {
